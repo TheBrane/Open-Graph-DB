@@ -1,2 +1,2 @@
-# Open-Science-Graph-DB
-The Open Science Knowledge Graph Initiative
+# Open-Graph-DB
+The Open Knowledge Graph Initiative
